@@ -1,14 +1,14 @@
 {
   "persons": [
     {
-      "id": "mxMHRr4VzNs",
-      "name": "hoho",
-      "number": "4654"
+      "id": "yZEf069kE2E",
+      "name": "janne",
+      "number": "1234"
     },
     {
-      "id": "KLfQFB05jRM",
-      "name": "tuulia",
-      "number": "1234"
+      "id": "IDt6VufxRZg",
+      "name": "jasmin",
+      "number": "6789"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
